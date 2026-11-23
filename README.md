@@ -1,6 +1,6 @@
 # Survival Analysis Learning Report
 
-A Spark-based replication and learning project on using survival analysis to study customer churn and lifetime value. It follows the [Databricks solution accelerator](https://www.databricks.com/solutions/accelerators/survival-analysis-for-churn-and-lifetime-value).
+A SUSTech Big Data coursework project using Spark to reproduce a survival analysis of customer churn and lifetime value. It follows the [Databricks solution accelerator](https://www.databricks.com/solutions/accelerators/survival-analysis-for-churn-and-lifetime-value).
 
 ## Read or reproduce
 
