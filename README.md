@@ -4,4 +4,4 @@ A Spark-based replication and learning project on using survival analysis to stu
 
 ## Read or reproduce
 
-Start with the [report](report.pdf) for the questions, approach, and results. The analysis is split across the [Q1 notebook](project1/Q1/project.ipynb) and [Q2 notebook](project1/Q2/codes.ipynb). Open them in a Spark-capable notebook environment and check their input paths before running. The [presentation](report.pptx) gives a shorter walkthrough.
+Start with the [report](report.pdf). Open the [Q1 notebook](project1/Q1/project.ipynb) in Spark and set `MACCDC_DATA_DIR` to the MACCDC input directory. For the [Q2 notebook](project1/Q2/codes.ipynb), set `TELCO_DATA_DIR` to the Telco CSV directory and `TELCO_DATABASE_NAME` to a writable Spark database. The notebooks are distributed with their saved outputs cleared.
